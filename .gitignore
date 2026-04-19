@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# Node / webapp
+webapp/node_modules/
+webapp/dist/
+node_modules/
+
+# Build cache
+.vite/
+
+# Claude Code config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
